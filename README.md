@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.Sam4uk)
 
-![Byungjin Park's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam4uk&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam4uk&exclude_repo=Sam4uk.github.io&hide=html,tex,Vim%20script,JavaScript&theme=&layout=compact&hide_border=true)
 <!--
 **Sam4uk/Sam4uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
