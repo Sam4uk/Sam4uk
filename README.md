@@ -12,12 +12,17 @@ If you answered `No` to all the questions, then let's get acquainted.
 
 I'm __Taras__, and you can learn more about me by following the links above or by asking me in person when we meet or by contacting me.
 
-Passionate about __microelectronics__ and __radio technology__.
-Not afraid of working with electricity. 
-Proficient with a soldering iron. 
-Skilled in working with _Windows_ but prefer __Linux__. 
-Experienced in __C/C++__ programming and constantly enhancing skills for microcontroller programming and various operating systems. 
-Familiar with _Microsoft Office_, but prefer using __Libre Office__.
+  Passionate about __microelectronics__ and __radio technology__.
+  
+  Not afraid of working with electricity. 
+  
+  Proficient with a soldering iron. 
+  
+  Skilled in working with _Windows_ but prefer __Linux__. 
+  
+  Experienced in __C/C++__ programming and constantly enhancing skills for microcontroller programming and various operating systems. 
+  
+  Familiar with _Microsoft Office_, but prefer using __Libre Office__.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam4uk&exclude_repo=Sam4uk.github.io&hide=html,tex,Vim%20script,JavaScript&theme=&layout=compact&hide_border=true)
 
