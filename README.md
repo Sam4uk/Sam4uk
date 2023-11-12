@@ -2,12 +2,16 @@
 
 Hello!
 I can only guess how you stumbled upon my profile here on GitHub.
+
 Perhaps you received this link from me personally?
-  No.
+  -- No.
+  
 Maybe you saw my work here or [here](https://nanitrobot.github.io/NanitLib/Ukrainian/) or [here](https://nanitrobot.com/) ?
-  No.
+  -- No.
+  
 Perhaps you found a link to this profile [here](https://sam4uk.github.io/)?
-  No.
+  -- No.
+  
 If you answered `No` to all the questions, then let's get acquainted.
 
 I'm __Taras__, and you can learn more about me by following the links above or by asking me in person when we meet or by contacting me.
